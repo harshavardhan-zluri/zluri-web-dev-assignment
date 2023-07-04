@@ -15,7 +15,7 @@ const Feedback = () => {
 
             <FeedbackDiv>
                 <p>
-                    Add your reply here
+                    This is trial by HV
                 </p>
             </FeedbackDiv>
             
